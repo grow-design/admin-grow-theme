@@ -5,7 +5,9 @@
 	<compatibility>
 		<version>7.0.0+</version>
 	</compatibility>
-	<theme id="admin-grow-theme" name="Admin Grow Theme">
+	<theme id="admin-grow" name="Admin Grow">
 		<template-extension>ftl</template-extension>
+		<control-panel-theme>true</control-panel-theme>
+		<page-theme>false</page-theme>
 	</theme>
 </look-and-feel>
